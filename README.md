@@ -76,7 +76,7 @@ The notebook downloads all TSE and IBGE inputs automatically. Paths are set in t
 
 **Daves de Azevedo Cordova** — Economist, doctoral researcher at POSGEO/UFMT (spatial inequality and territorial analysis, Mato Grosso, Brazil).
 
-📧 **Contact:** [daves.cordova@gmail.com](mailto:daves.cordova@gmail.com) · 🐙 **GitHub:** [@davescordova](https://github.com/davescordova)
+📧 **Contact:** [daves.cordova@gmail.com](mailto:daves.cordova@gmail.com)
 
 ## ⚖️ License
 
